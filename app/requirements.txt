@@ -1,1 +1,5 @@
-awslambdaric
+aws-wsgi
+dash
+dash_core_components
+gunicorn
+pandas

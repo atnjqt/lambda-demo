@@ -2,3 +2,10 @@
 
 testing for work, but nice to have a personal copy
 
+### dev
+
+```bash
+docker build -t lambda-demo ./
+
+docker run -p
+```
